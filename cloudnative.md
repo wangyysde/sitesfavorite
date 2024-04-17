@@ -1,6 +1,6 @@
 # 云原生综合类站点
 
-<img src="https://www.sysadm.cn/res/202012/15/e0124d594b30c977.png" >
+<a href="https://www.sysadm.cn" target="_blank"><img src="./images/sysadm.png"></a>
 
 ---
 <table>
