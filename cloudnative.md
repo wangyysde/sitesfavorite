@@ -39,6 +39,14 @@
     <td></td><td>正常</td><td></td>
 </tr>
 
+<tr>
+    <td>2</td> <td>harbor</td><td>harbor镜像仓库</td>
+    <td><a href="https://github.com/goharbor/harbor" target="_blank">https://github.com/goharbor/harbor</a> </td>
+    <td><a href="https://goharbor.io/" target="_blank">https://goharbor.io/</a> </td>
+    <td><a href="https://goharbor.io/docs/2.10.0/" target="_blank">https://goharbor.io/docs/2.10.0/</a> </td>
+    <td>正常</td> <td></td>
+</tr>
+
 </table>
 
 ---
