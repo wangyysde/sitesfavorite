@@ -74,4 +74,12 @@
     <td>正常</td> 
     <td>DaoCloud公司团队开发</td>
 </tr>
+
+<tr>
+    <td>3</td> <td>clusternet</td> <td>kubernetes多集群管理工具</td>
+    <td><a href="https://github.com/clusternet/clusternet" target="_blank">https://github.com/clusternet/clusternet</a> </td>
+    <td><a href="https://clusternet.io" target="_blank">https://clusternet.io/</a> </td>
+    <td><a href="https://clusternet.io/docs/" target="_blank">https://clusternet.io/docs/</a> </td>
+    <td>正常</td> <td>CNCF 沙箱项目</td>
+</tr>
 </table>
