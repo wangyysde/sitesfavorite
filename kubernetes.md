@@ -51,6 +51,12 @@
     <td>对kubernetes组件有特性方面的改进时，需要在这个仓库里先提交Issue，并提交PR，合并后再实施新特性添加</td>
 </tr>
 
+<tr>
+    <td>6</td> <td>kubeadm</td> <td>一个创建和管理kubernetes集群的工具</td>
+    <td><a href="https://github.com/kubernetes/kubeadm" target="_blank">https://github.com/kubernetes/kubeadm</a> </td>
+    <td></td><td></td><td></td><td>kubeadm代码在kubernetes仓库里</td>
+</tr>
+
 </table>
 
 ---
