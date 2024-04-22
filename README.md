@@ -16,6 +16,8 @@
   - [golang](./golang.md)
     - <a href="golang.md#basic">语言基础</a>
     - <a href="golang.md#framework">组件和框架</a>
+    - <a href="golang.md#standard">标准库</a>
+    - <a href="golang.md#graph">图形处理和分析工具</a>
     
 - [电子书籍](./book.md)
   - [开发语言](./book.md)

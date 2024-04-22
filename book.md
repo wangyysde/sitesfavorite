@@ -27,4 +27,12 @@
   <td><a href="https://github.com/unknwon/the-way-to-go_ZH_CN" target="_blank">https://github.com/unknwon/the-way-to-go_ZH_CN</a> </td>
   <td>中文</td> <td></td>
 </tr>
+
+<tr>
+  <td>3</td> <td>Go语言高级编程</td>
+  <td><a href="https://github.com/chai2010/advanced-go-programming-book" target="_blank">https://github.com/chai2010/advanced-go-programming-book</a> </td>
+  <td><a href="https://chai2010.cn/advanced-go-programming-book/" target="_blank">https://chai2010.cn/advanced-go-programming-book/</a> </td>
+  <td>中文</td> <td></td>
+</tr>
+
 </table>

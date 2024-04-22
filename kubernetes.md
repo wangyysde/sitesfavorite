@@ -88,4 +88,9 @@
     <td><a href="https://clusternet.io/docs/" target="_blank">https://clusternet.io/docs/</a> </td>
     <td>正常</td> <td>CNCF 沙箱项目</td>
 </tr>
+<tr>
+    <td>4</td> <td>pushgateway</td><td>用于向Prometheus暴露批处理和短时任务的metrics.</td>
+    <td><a href="https://github.com/prometheus/pushgateway" target="_blank">https://github.com/prometheus/pushgateway</a></td>
+    <td></td><td></td><td>正常</td><td></td>
+</tr>
 </table>
