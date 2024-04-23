@@ -57,6 +57,25 @@
     <td></td><td></td><td></td><td>kubeadm代码在kubernetes仓库里</td>
 </tr>
 
+<tr>
+    <td>7</td> <td>website</td><td>kubernetes官网仓库</td>
+    <td><a href="https://github.com/kubernetes/website" target="_blank">https://github.com/kubernetes/website</a> </td>
+    <td><a href="https://kubernetes.io/" target="_blank">https://kubernetes.io/</a> </td>
+    <td></td><td>正常</td><td></td>
+</tr>
+
+<tr>
+    <td>8</td> <td>org</td><td>这个仓库是用于管理kubernetes在GitHub上的组织的，即当给某个ID授予某个角色时，即是修改这个仓库里config下指定文件内容</td>
+    <td><a href="https://github.com/kubernetes/org" target="_blank">https://github.com/kubernetes/org</a> </td>
+    <td></td><td></td><td>正常</td><td></td>
+</tr>
+    <td>9</td> <td>community</td><td>这个仓库存放的是与kuberneter社区治理相关的文档</td>
+    <td><a href="https://github.com/kubernetes/community">https://github.com/kubernetes/community</a> </td>
+    <td></td><td></td><td>正常</td><td>阅读这个仓库里的文档可以了解kubernetes社区的日常运作流程</td>
+<tr>
+    
+</tr>
+
 </table>
 
 ---
@@ -93,4 +112,17 @@
     <td><a href="https://github.com/prometheus/pushgateway" target="_blank">https://github.com/prometheus/pushgateway</a></td>
     <td></td><td></td><td>正常</td><td></td>
 </tr>
+<tr>
+    <td>5</td> <td>kube-prometheus</td> <td>这个仓库收集了使用prometheus监控kubernetes可能用到的manifests，grafana模板和prometheus规则等</td>
+    <td><a href="https://github.com/prometheus-operator/kube-prometheus" target="_blank">https://github.com/prometheus-operator/kube-prometheus</a> </td>
+    <td><a href="https://prometheus-operator.dev/" target="_blank">https://prometheus-operator.dev/</a> </td>
+    <td></td><td>正常</td><td></td>
+</tr>
+<tr>
+    <td>6</td> <td>kubeedge</td><td>kubernetes原生边缘计算框架</td>
+    <td><a href="https://github.com/kubeedge/kubeedge" target="_blank">https://github.com/kubeedge/kubeedge</a> </td>
+    <td><a href="https://kubeedge.io/" target="_blank">https://kubeedge.io/</a> </td>
+    <td></td><td></td><td>这是CNCF的一个孵化项目</td>
+</tr>
+
 </table>

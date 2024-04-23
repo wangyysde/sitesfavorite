@@ -26,3 +26,12 @@
 
 - [技术文章](./article.md)
   - <a href="article.md#complext"> 综合类</a>
+
+  
+- [Linux相关](./linux.md)
+  - <a href="linux.md#basic">基本使用</a>
+
+
+
+- [排行榜](./ranking.md)
+  - <a href="ranking.md#programlanguage">编程语言</a>
