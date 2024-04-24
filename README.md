@@ -35,3 +35,14 @@
 
 - [排行榜](./ranking.md)
   - <a href="ranking.md#programlanguage">编程语言</a>
+
+
+
+- [职场相关](./job.md)
+  - <a href="job#interview">面试相关</a>
+
+- [监控相关](./monitoring.md)
+  - <a href="#platform">系统和平台</a>
+
+- [文学相关](./literature.md)
+  - <a href="literature.md#poetry">诗词</a>
