@@ -80,6 +80,10 @@
     <td><a href="https://github.com/alecthomas/kong" target="_blank">https://github.com/alecthomas/kong</a> </td>
     <td></td><td></td><td>正常</td>
 </tr>
+<tr><td>8</td><td>sessions</td> <td>适用于Gin框架的Sessiont管理组件</td><td><a href="https://github.com/gin-contrib/sessions" target="_blank">https://github.com/gin-contrib/sessions</a> </td>
+    <td></td><td></td><td>正常</td>
+
+</tr>
 </table>
 
 ---

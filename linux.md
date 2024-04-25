@@ -21,4 +21,11 @@
     <td></td><td>正常</td><td></td>
 </tr>
 
+<tr>
+    <td>2</td><td>Linux内核源码仓库</td>
+    <td><a href="https://github.com/torvalds/linux" target="_blank">https://github.com/torvalds/linux</a> </td>
+    <td><a href="https://www.kernel.org/" target="_blank">https://www.kernel.org/</a> </td>
+    <td></td><td>正常</td><td></td>
+</tr>
+
 </table>

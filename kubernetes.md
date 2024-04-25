@@ -6,7 +6,7 @@
 # <a id="catalog">目录分类 </a>
 - <a href="#kubernetes">Kubernetes生态组件</a>
 - <a href="#thirdparty">Kubernetes第三方组件</a>
-
+- <a href="#development">应用定义和部署</a>
 
 ---
 ## <a id="kubernetes">Kubernetes社区组件</a>
@@ -124,5 +124,39 @@
     <td><a href="https://kubeedge.io/" target="_blank">https://kubeedge.io/</a> </td>
     <td></td><td></td><td>这是CNCF的一个孵化项目</td>
 </tr>
+
+<tr>
+    <td>7</td> <td>envoy</td><td>一款云原生的服务代理服务器</td>
+    <td><a href="https://github.com/envoyproxy/envoy" target="_blank">https://github.com/envoyproxy/envoy</a>  </td>
+    <td><a href="https://www.envoyproxy.io/" target="_blank">https://www.envoyproxy.io/</a> </td>
+    <td><a href="https://www.envoyproxy.io/docs" target="_blank">https://www.envoyproxy.io/docs</a> </td>
+    <td>正常</td><td></td>
+</tr>
+
+<tr>
+    <td>8</td> <td>istio</td><td>服务网络的可观测性、流量、安全及策略管理</td>
+    <td><a href="https://github.com/istio/istio.io" target="_blank">https://github.com/istio/istio.io</a> </td>
+    <td><a href="https://istio.io/" target="_blank">https://istio.io/</a> </td>
+    <td><a href="https://istio.io/latest/docs/" target="_blank">https://istio.io/latest/docs/</a> </td>
+    <td>正常</td><td>CNCF毕业项目</td>
+</tr>
+
+</table>
+
+---
+## <a id="development">应用定义和部署</a>
+<a href="#catalog">返回项部</a>     [返回总分类](./README.md)
+<table>
+<tr bgcolor="#4169E1">
+    <td>序号</td> <td>名称</td> <td>描述</td> <td>仓库</td> <td>官网</td><td>使用手册</td><td>状态</td><td>备注</td>
+</tr>
+
+<tr>
+    <td>1</td> <td>helm</td> <td>微服务应用的管理工具</td>
+    <td><a href="https://github.com/helm/helm" target="_blank">https://github.com/helm/helm</a> </td>
+    <td><a href="https://helm.sh/" target="_blank">https://helm.sh/</a> </td>
+    <td><a href="https://helm.sh/docs/" target="_blank">https://helm.sh/docs/</a> </td>
+</tr>
+
 
 </table>

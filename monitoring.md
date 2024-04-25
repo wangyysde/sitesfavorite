@@ -22,4 +22,12 @@
     <td>正常</td><td></td>
 </tr>
 
+<tr>
+    <td>2</td> <td>prometheus</td> <td>监控系统和时间序列数据库</td>
+    <td><a href="https://github.com/prometheus/prometheus" target="_blank">https://github.com/prometheus/prometheus</a> </td>
+    <td><a href="https://prometheus.io/" target="_blank">https://prometheus.io/</a> </td>
+    <td><a href="https://prometheus.io/docs/introduction/overview/" target="_blank">https://prometheus.io/docs/introduction/overview/</a> </td>
+    <td>正常</td><td></td>
+</tr>
+
 </table>

@@ -12,6 +12,7 @@
 - [kubernetes相关](./kubernetes.md)
   - <a href="kubernetes.md#kubernetes">Kubernetes生态组件</a>
   - <a href="kubernetes.md#thirdparty">Kubernetes第三方组件</a>
+  - <a href="kubernetes.md#development">应用定义和部署</a>
 - 开发语言
   - [golang](./golang.md)
     - <a href="golang.md#basic">语言基础</a>
