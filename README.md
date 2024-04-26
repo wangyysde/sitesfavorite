@@ -23,7 +23,7 @@
 - [电子书籍](./book.md)
   - [开发语言](./book.md)
     - <a href="book.md#golang">GoLang</a>
-
+  - <a href="book.md#repositories">书籍仓库</a>
 
 - [技术文章](./article.md)
   - <a href="article.md#complext"> 综合类</a>

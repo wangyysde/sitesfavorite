@@ -7,10 +7,13 @@
 - <a href="#language">开发语言</a>
   - <a href="#golang">GoLang</a>
 
+- <a href="#repositories">书籍仓库</a>
+  
 
 ---
 ## <a id="language">开发语言</a>
 ### <a id="golang">GoLang</a>
+<a href="#catalog">返回项部</a>     [返回总分类](./README.md)
 <table>
 <tr bgcolor="#4169E1">
     <td>序号</td> <td>名称</td><td>地址</td><td>仓库</td><td>语言</td> <td>描述</td>
@@ -33,6 +36,23 @@
   <td><a href="https://github.com/chai2010/advanced-go-programming-book" target="_blank">https://github.com/chai2010/advanced-go-programming-book</a> </td>
   <td><a href="https://chai2010.cn/advanced-go-programming-book/" target="_blank">https://chai2010.cn/advanced-go-programming-book/</a> </td>
   <td>中文</td> <td></td>
+</tr>
+
+</table>
+
+---
+## <a id="repositories">书籍仓库</a>
+<a href="#catalog">返回项部</a>     [返回总分类](./README.md)
+<table>
+<tr bgcolor="#4169E1">
+    <td>序号</td> <td>名称</td><td>仓库</td><td>语言</td> <td>描述</td>
+</tr>
+
+<tr>
+    <td>1</td> <td>free-programming-books-zh_CN</td>
+    <td><a href="https://github.com/justjavac/free-programming-books-zh" target="_blank">https://github.com/justjavac/free-programming-books-zh</a> </td>
+    <td>中文</td>
+    <td>这个仓库收集了很多与编程和计算相关的电子书籍</td>
 </tr>
 
 </table>

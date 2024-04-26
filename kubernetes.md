@@ -73,8 +73,15 @@
     <td><a href="https://github.com/kubernetes/community">https://github.com/kubernetes/community</a> </td>
     <td></td><td></td><td>正常</td><td>阅读这个仓库里的文档可以了解kubernetes社区的日常运作流程</td>
 <tr>
-    
+
+<tr>
+    <td>10</td> <td>ingress-nginx</td><td>是一款基于nginx的ingress控制器</td>
+    <td><a href="https://github.com/kubernetes/ingress-nginx" target="_blank">https://github.com/kubernetes/ingress-nginx</a> </td>
+    <td><a href="https://kubernetes.github.io/ingress-nginx/" target="_blank">https://kubernetes.github.io/ingress-nginx/</a> </td>
+    <td></td><td>正常</td><td>这是由kubernetes社区开发和维护的ingress控制器，还有一款基于nginx的ingress控制器是由nginx自已开发和维护的</td>
+
 </tr>
+
 
 </table>
 
@@ -140,6 +147,14 @@
     <td><a href="https://istio.io/latest/docs/" target="_blank">https://istio.io/latest/docs/</a> </td>
     <td>正常</td><td>CNCF毕业项目</td>
 </tr>
+
+<tr>
+    <td>9</td> <td>CoreDNS</td> <td>一款DNS服务器</td>
+    <td><a href="https://github.com/coredns/coredns" target="_blank">https://github.com/coredns/coredns</a> </td>
+    <td><a href="https://coredns.io/" target="_blank">https://coredns.io/</a> </td>
+    <td></td><td>正常</td><td>CNCF毕业项目</td>
+</tr>
+
 
 </table>
 
