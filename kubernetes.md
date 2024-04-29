@@ -142,7 +142,7 @@
 
 <tr>
     <td>8</td> <td>istio</td><td>服务网络的可观测性、流量、安全及策略管理</td>
-    <td><a href="https://github.com/istio/istio.io" target="_blank">https://github.com/istio/istio.io</a> </td>
+    <td><a href="https://github.com/istio/istio" target="_blank">https://github.com/istio/istio</a> </td>
     <td><a href="https://istio.io/" target="_blank">https://istio.io/</a> </td>
     <td><a href="https://istio.io/latest/docs/" target="_blank">https://istio.io/latest/docs/</a> </td>
     <td>正常</td><td>CNCF毕业项目</td>
@@ -155,6 +155,20 @@
     <td></td><td>正常</td><td>CNCF毕业项目</td>
 </tr>
 
+<tr>
+    <td>10</td> <td>Calico</td> <td>云原生网络和网络安全组件</td>
+    <td><a href="https://github.com/projectcalico/calico" target="_blank">https://github.com/projectcalico/calico</a> </td>
+    <td><a href="https://www.tigera.io/" target="_blank">https://www.tigera.io/</a> </td>
+    <td><a href="https://docs.tigera.io/calico/latest/about/" target="_blank">https://docs.tigera.io/calico/latest/about/</a> </td>
+    <td>正常</td><td></td>
+</tr>
+
+<tr>
+    <td>11</td> <td>flannel</td> <td>容器网络插件</td>
+    <td><a href="https://github.com/flannel-io/flannel" target="_blank">https://github.com/flannel-io/flannel</a> </td>
+    <td></td><td></td>
+    <td>正常</td><td></td>
+</tr>
 
 </table>
 

@@ -8,7 +8,8 @@
   - <a href="#golang">GoLang</a>
 
 - <a href="#repositories">书籍仓库</a>
-  
+
+- <a href="#architect">架构师相关</a>  
 
 ---
 ## <a id="language">开发语言</a>
@@ -55,4 +56,20 @@
     <td>这个仓库收集了很多与编程和计算相关的电子书籍</td>
 </tr>
 
+</table>
+
+---
+## <a id="architect">架构师相关</a>
+<a href="#catalog">返回项部</a>     [返回总分类](./README.md)
+<table>
+<tr bgcolor="#4169E1">
+    <td>序号</td> <td>名称</td><td>仓库</td><td>语言</td> <td>描述</td>
+</tr>
+<tr>
+   <td>1</td> <td>后端架构师技术图谱</td>
+   <td><a href="https://github.com/xingshaocheng/architect-awesome" target="_blank">https://github.com/xingshaocheng/architect-awesome</a> </td>
+  <td></td>
+  <td>收集了与系统架构相关的知识</td>
+
+</tr>
 </table>

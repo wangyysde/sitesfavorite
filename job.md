@@ -22,4 +22,18 @@
     <td>正常</td><td></td>
 </tr>
 
+<tr>
+    <td>2</td> <td>interview_internal_reference</td> <td>收集了国内各大互联网公司的面试题</td>
+    <td><a href="https://github.com/0voice/interview_internal_reference" target="_blank">https://github.com/0voice/interview_internal_reference</a> </td>
+    <td></td><td>正常</td><td></td>
+</tr>
+
+<tr>
+    <td>3</td> <td>interview_python</td> <td>收集了python相关的面试题 </td>
+    <td><a href="https://github.com/wangyysde/interview_python" target="_blank">https://github.com/wangyysde/interview_python</a> </td>
+    <td></td><td>暂停更新</td>
+    <td></td>
+</tr>
+
+
 </table>
