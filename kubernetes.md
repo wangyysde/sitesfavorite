@@ -170,6 +170,14 @@
     <td>正常</td><td></td>
 </tr>
 
+<tr>
+    <td>12</td> <td>etcd</td> <td>分布式对象数据库</td>
+    <td><a href="https://github.com/etcd-io/etcd" target="_blank">https://github.com/etcd-io/etcd</a> </td>
+    <td><a href="https://etcd.io/" target="_blank">https://etcd.io/</a> </td>
+    <td></td>
+    <td>正常</td><td></td>
+</tr>
+
 </table>
 
 ---
