@@ -178,6 +178,15 @@
     <td>正常</td><td></td>
 </tr>
 
+<tr>
+    <td>13</td> <td>volcano</td> <td>一个用于扩展K8S的Job功能的批处理系统，特别适用于管理AI训练类应用</td>
+    <td><a href="https://github.com/volcano-sh/volcano" target="_blank">https://github.com/volcano-sh/volcano</a> </td>
+    <td><a href="https://volcano.sh" target="_blank">volcano.sh</a> </td>
+    <td></td>
+    <td>正常</td><td></td>
+</tr>
+
+
 </table>
 
 ---
